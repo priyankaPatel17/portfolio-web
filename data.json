@@ -89,13 +89,37 @@
                 "organization": "Knovator technologies",
                 "role": "Lead software Engineer",
                 "type": "Full time job",
-                "startDate": "2021-07-01",
-                "endDate": "2021-10-01",
-                "city": "New Delhi",
-                "state": "Delhi",
+                "startDate": "2018-10-01",
+                "endDate": "2022-02-01",
+                "city": "Surat",
+                "state": "Gujarat",
                 "country": "India",
                 "url": "https://www.linkedin.com/company/clouddfn-llp/",
                 "thumbnail": "https://media-exp1.licdn.com/dms/image/C510BAQFlYpD4CBqdNg/company-logo_200_200/0/1519500564654?e=1645056000&v=beta&t=zNmk6RfkUEj3vPWJ4cFEBvtIPdv5vOnBlgeSvMhnTa4"
+            },
+            {
+                "organization": "MicraSol LLP (Micra Solution)",
+                "role": "Web Developer",
+                "type": "Full time job",
+                "startDate": "2018-03-01",
+                "endDate": "2018-09-30",
+                "city": "Surat",
+                "state": "Gujarat",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/micra-solution/",
+                "thumbnail": "https://media-exp2.licdn.com/dms/image/C4D0BAQFDGWkP3ZzBzw/company-logo_200_200/0/1642735318288?e=1664409600&v=beta&t=6XkHfUXmuE_LOsxR9BkvQFvduS3HbZq2QfVF9hr4yck"
+            },
+            {
+                "organization": "Fablead Developers Technolab",
+                "role": "Web Developer",
+                "type": "Full time job",
+                "startDate": "2017-05-01",
+                "endDate": "2018-03-30",
+                "city": "Surat",
+                "state": "Gujarat",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/fablead-developers-technolab/",
+                "thumbnail": "https://media-exp2.licdn.com/dms/image/C510BAQE04rXQASqnyA/company-logo_200_200/0/1519883096567?e=1664409600&v=beta&t=huXTB2P-q5Y817kP__6nkp3hatkuTgplZQXeiq-PVi0"
             }
         ],
         "Volunteer Experience": [
