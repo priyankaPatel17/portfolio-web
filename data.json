@@ -3,7 +3,7 @@
     "landing": {
         "title": "Hi, I'm Priyanka",
         "subtitles": [
-            "Full-stack developer 🌐📱💻",
+            "Full-stack web developer 🌐💻",
             "Exploring cloud ☁️",
             "Beginner in devops ♾️",
             "Just getting started 📈"
@@ -83,7 +83,7 @@
                 "state": "Gujarat",
                 "country": "India",
                 "url": "https://www.linkedin.com/company/crest-infosystems-pvt-ltd/mycompany/",
-                "thumbnail": "https://media-exp2.licdn.com/dms/image/C4E0BAQHM6v7hM8h-Ag/company-logo_200_200/0/1632898974292?e=1664409600&v=beta&t=Zm6crtegZC18khRrE8GQCpeXm6KoYdzcw1mD5AWkZOI"
+                "thumbnail": "/crest.jpg"
             },
             {
                 "organization": "Knovator technologies",
@@ -95,7 +95,7 @@
                 "state": "Gujarat",
                 "country": "India",
                 "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "https://media-exp1.licdn.com/dms/image/C510BAQFlYpD4CBqdNg/company-logo_200_200/0/1519500564654?e=1645056000&v=beta&t=zNmk6RfkUEj3vPWJ4cFEBvtIPdv5vOnBlgeSvMhnTa4"
+                "thumbnail": "/knovator.jpg"
             },
             {
                 "organization": "MicraSol LLP (Micra Solution)",
@@ -107,7 +107,7 @@
                 "state": "Gujarat",
                 "country": "India",
                 "url": "https://www.linkedin.com/company/micra-solution/",
-                "thumbnail": "https://media-exp2.licdn.com/dms/image/C4D0BAQFDGWkP3ZzBzw/company-logo_200_200/0/1642735318288?e=1664409600&v=beta&t=6XkHfUXmuE_LOsxR9BkvQFvduS3HbZq2QfVF9hr4yck"
+                "thumbnail": "/micra.jpg"
             },
             {
                 "organization": "Fablead Developers Technolab",
@@ -119,7 +119,7 @@
                 "state": "Gujarat",
                 "country": "India",
                 "url": "https://www.linkedin.com/company/fablead-developers-technolab/",
-                "thumbnail": "https://media-exp2.licdn.com/dms/image/C510BAQE04rXQASqnyA/company-logo_200_200/0/1519883096567?e=1664409600&v=beta&t=huXTB2P-q5Y817kP__6nkp3hatkuTgplZQXeiq-PVi0"
+                "thumbnail": "/fablead.jpg"
             }
         ],
         "Volunteer Experience": [
@@ -138,7 +138,7 @@
         ]
     },
     "about": {
-        "description": "I am a full-stack web developer, Completed my B.tech in IT from RK University. I have total 5+ years of experience in IT world.",
+        "description": "I am a Full-stack Web Developer, completed my B.tech in IT from RK University. I have total 5+ years of experience in a IT world.",
         "picture": "/profile.jpg",
         "social": [
             {
