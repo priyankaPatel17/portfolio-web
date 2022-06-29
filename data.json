@@ -1,56 +1,49 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Priyanka patel",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hi, I'm Priyanka",
         "subtitles": [
-            "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
+            "Full-stack developer 🌐📱💻",
             "Exploring cloud ☁️",
             "Beginner in devops ♾️",
             "Just getting started 📈"
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "priyanka-patel",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/priyanka-patel-09a04395/"
             },
             {
-                "alt": "kausko",
+                "alt": "priyanka-patel",
                 "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
+                "link": "https://stackoverflow.com/users/10325787/priyanka-patel"
             },
             {
-                "alt": "kausko",
+                "alt": "priyanka-patel",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/priyankaPatel17"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "mailto:patel3riya@gmail.com"
             }
         ]
     },
     "skills": {
         "Languages known": [
             "JavaScript",
-            "Java",
             "C++",
-            "Python",
             "HTML5",
             "CSS3",
-            "TypeScript",
-            "Kotlin",
-            "Dart"
+            "TypeScript"
         ],
         "Frontend": [
             "React",
             "Redux",
             "Next.js",
-            "Gatsby",
             "Netlify",
-            "Vercel",
             "Material-UI",
             "antdesign",
             "Bootstrap"
@@ -62,26 +55,13 @@
             "MongoDB",
             "MySQL",
             "PostgreSQL",
-            {
-                "alt": "Azure",
-                "icon": "microsoftazure"
-            },
+            "Aws services",
             "Heroku",
             "Firebase"
-        ],
-        "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo",
-            "Android",
-            "Flutter"
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/kausko/",
+        "baseURI": "https://api.github.com/repos/priyanka/",
         "repositories": [
             "Genrealize",
             "Portfolio",
@@ -94,21 +74,21 @@
     "experience": {
         "Work Experience": [
             {
-                "organization": "CloudDFN LLP",
+                "organization": "Crest infosystems pvt ltd.",
                 "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
+                "type": "Full time job",
+                "startDate": "2022-02-22",
+                "endDate": "",
+                "city": "Surat",
+                "state": "Gujarat",
                 "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
+                "url": "https://www.linkedin.com/company/crest-infosystems-pvt-ltd/mycompany/",
+                "thumbnail": "https://media-exp2.licdn.com/dms/image/C4E0BAQHM6v7hM8h-Ag/company-logo_200_200/0/1632898974292?e=1664409600&v=beta&t=Zm6crtegZC18khRrE8GQCpeXm6KoYdzcw1mD5AWkZOI"
             },
             {
-                "organization": "NonceBlox Pvt. Ltd.",
-                "role": "Full Stack Developer",
-                "type": "Internship",
+                "organization": "Knovator technologies",
+                "role": "Lead software Engineer",
+                "type": "Full time job",
                 "startDate": "2021-07-01",
                 "endDate": "2021-10-01",
                 "city": "New Delhi",
@@ -120,49 +100,37 @@
         ],
         "Volunteer Experience": [
             {
-                "organization": "PICT IEEE Student Branch (PISB)",
-                "role": "Technical Head",
+                "organization": "School of engineering, Rk university",
+                "role": "Technical",
                 "type": "Member",
-                "startDate": "2019-07-01",
+                "startDate": "2015-07-01",
                 "endDate": "",
-                "city": "Pune",
-                "state": "Maharashtra",
+                "city": "Rajkot",
+                "state": "Gujarat",
                 "country": "India",
-                "url": "https://www.linkedin.com/company/pisbieee/",
-                "thumbnail": "/PISB.jfif"
-            },
-            {
-                "organization": "Pictoreal",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "2021-04-01",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pictoreal/",
-                "thumbnail": "/Picto.jfif"
+                "url": "https://www.linkedin.com/school/rkuniversity/",
+                "thumbnail": "https://media-exp2.licdn.com/dms/image/C560BAQF7v1Q1dZv9Lg/company-logo_200_200/0/1651825222450?e=1664409600&v=beta&t=TtYd9Yu8nefMEq64shDjae9cfIavPrEPMbv602e64Lg"
             }
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my B.E in Computer Engineering from Pune Institute of Computer Technology. I strive to make meaningful applications with the best UI practices.",
+        "description": "I am a full-stack web developer, Completed my B.tech in IT from RK University. I have total 5+ years of experience in IT world.",
         "picture": "/profile.jpg",
         "social": [
             {
-                "alt": "kaustubh._.o",
+                "alt": "hny_pie",
                 "icon": "instagram",
-                "link": "https://www.instagram.com/kaustubh._.o/"
+                "link": "https://www.instagram.com/hny_pie/?hl=en"
             },
             {
-                "alt": "KO_272",
+                "alt": "pricha_official",
+                "icon": "instagram",
+                "link": "https://www.instagram.com/pricha_official/?hl=en"
+            },
+            {
+                "alt": "hny_pie_17",
                 "icon": "twitter",
-                "link": "https://twitter.com/KO_272"
-            },
-            {
-                "alt": "kaustubh#4489",
-                "icon": "discord",
-                "link": "https://discord.com/"
+                "link": "https://twitter.com/hny_pie_17"
             }
         ]
     },
