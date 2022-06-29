@@ -121,20 +121,6 @@
                 "url": "https://www.linkedin.com/company/fablead-developers-technolab/",
                 "thumbnail": "/fablead.jpg"
             }
-        ],
-        "Volunteer Experience": [
-            {
-                "organization": "School of engineering, Rk university",
-                "role": "Technical",
-                "type": "Member",
-                "startDate": "2015-07-01",
-                "endDate": "",
-                "city": "Rajkot",
-                "state": "Gujarat",
-                "country": "India",
-                "url": "https://www.linkedin.com/school/rkuniversity/",
-                "thumbnail": "https://media-exp2.licdn.com/dms/image/C560BAQF7v1Q1dZv9Lg/company-logo_200_200/0/1651825222450?e=1664409600&v=beta&t=TtYd9Yu8nefMEq64shDjae9cfIavPrEPMbv602e64Lg"
-            }
         ]
     },
     "about": {
